@@ -17,3 +17,9 @@ El objetivo de este proyecto es crear una tarjeta que, al pasar el cursor sobre 
   ```bash
   cd goku-hover-js
   ```
+
+## Demo
+1. Estado base
+![alt text](./demo/base.png)
+2. Estado hover
+![alt text](./demo/hover.png)

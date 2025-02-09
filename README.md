@@ -11,7 +11,7 @@ El objetivo de este proyecto es crear una tarjeta que, al pasar el cursor sobre 
 
 1. Clona este repositorio en tu máquina local:
   ```bash
-  git clone https://github.com/tu-usuario/goku-hover-js.git
+  git clone https://github.com/jjaramillodev/goku-hover-js.git
   ```
 2. Navega al directorio del proyecto:
   ```bash

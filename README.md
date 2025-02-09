@@ -19,7 +19,9 @@ El objetivo de este proyecto es crear una tarjeta que, al pasar el cursor sobre 
   ```
 
 ## Demo
-1. Estado base
-![alt text](./demo/base.png)
-2. Estado hover
-![alt text](./demo/hover.png)
+
+1. Estado base  
+   ![alt text](./demo/base.png)
+
+2. Estado hover  
+   ![alt text](./demo/hover.png)

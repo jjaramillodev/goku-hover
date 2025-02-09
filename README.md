@@ -21,7 +21,7 @@ El objetivo de este proyecto es crear una tarjeta que, al pasar el cursor sobre 
 ## Demo
 
 1. Estado base  
-   ![alt text](./demo/base.png)
+   ![alt text](./demo/base.webp)
 
 2. Estado hover  
-   ![alt text](./demo/hover.png)
+   ![alt text](./demo/hover.webp)
